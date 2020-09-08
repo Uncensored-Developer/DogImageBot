@@ -1,0 +1,11 @@
+LICENSE-APACHE
+LICENSE-MIT
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.py
+DogImageBot.egg-info/PKG-INFO
+DogImageBot.egg-info/SOURCES.txt
+DogImageBot.egg-info/dependency_links.txt
+DogImageBot.egg-info/top_level.txt
+dogimagebot/__init__.py

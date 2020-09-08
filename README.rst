@@ -4,16 +4,13 @@ DogImageBot
 .. contents:: **Table of Contents**
     :backlinks: none
 
-Installation
+Info
 ------------
 
-DogImageBot is distributed on `PyPI <https://pypi.org>`_ as a universal
-wheel and is available on Linux/macOS and Windows and supports
-Python 2.7/3.5+ and PyPy.
+DogImageBot is a simple Telegram Bot built in python3 that sends a random picture of a dog when
+sent "/bop" command.
 
-.. code-block:: bash
 
-    $ pip install DogImageBot
 
 License
 -------
